@@ -1,6 +1,4 @@
-# ANSI SQL Parser
-
-A repository to study the features of the ISO/IEC 9075 specification
+# DiverSQL
 
 - Refer to [sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs)
 
